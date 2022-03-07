@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.seperator{
+    width: 100%;
+    height: 5%;
+    padding: 20px 0;
+    background: white;
+}
+
+.main-container{
+    background: black;
+}
+
+.hero-section{
+   width: 100%;
+   margin-top: 0;
+   padding-bottom: 3%;
+}
+
+.animation{
+    float: left;
+}
+
+.animation-text-container{
+    float: left;
+    padding-top: 10%;
+    margin-top: 20%;
+}
+
+.animation-text{
+    color: white;
+    font-family: 'Almarai';
+}
+
+.hello{
+    font-size: 36px;
+}
+
+.tomeka{
+    font-family: 'Loved by the King', cursive;
+}
+
+.heart{
+    color: red;
+}
+
+.second-section{
+    padding-top:30%;
+    padding-bottom: 30%;
+   width: 100%;
+   height: 800px; 
+   }
+
+   .second-section-heading{
+       margin-top: 3%;
+       text-align: center;
+       margin: 0 auto;
+       font-size: 6em;
+       
+   }
+
+   .card-block{
+       margin: 0 auto;
+   }
+
+   .card-container{
+       padding-top: 3%;
+       padding-bottom: 3%;
+   }
+
+   .top-row{
+       padding-bottom: 20px;
+   }
+
+   .card-flip{
+       margin-left: 10%;
+       align-content: center;
+   }
+
+   .ani-icon{
+    margin: 0 auto;
+   }
+
+   .card-title{
+       text-align: center;
+   }
+
+.third-section{
+    
+}
+
+.fourth-section{
+    background: black;
+    width: 100%;
+    height: 800px; 
+}
+
+.love-list{
+    color: white;
+    list-style-type: none;
+    font-size: 2em;
+    font-weight: 700;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20%;
+}
+
+.love-list-item{
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-family: 'Loved by the King', cursive;
+    font-size: 1.3em;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+.beating-heart{
+    margin: 0 auto;
+    position: relative;
+    top: 5%;
+    bottom: 5%;
+}
+
+.back{
+    display:none;
+}
+
+.fifth-section{
+    background-color: black;
+}
